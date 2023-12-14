@@ -1,8 +1,8 @@
 <h1>Hello there!!</h1>
 <h1>Yes, YOU!!</h1>
-<p>The link below is my site about me, my school, services I can provide and my projects. If you have spare time feel free to visit my site at <a href="exphyerion.free.nf">exphyerion.free.nf</a>
+<p>The link below is my site about me, my school, services I can provide and my projects. If you have spare time feel free to visit my site at <a href="http://exphyerion.free.nf"> http://exphyerion.free.nf</a>
  or click the word below that says... <br>
 You Guessed it! Click me!!.<br>
  If you want to avail one of my services, dont be shy!. My contact info is on the page, feel free to reach out. </p>
-<a href="exphyerion.free.nf"> Click me!!</a>
+<a href="http://exphyerion.free.nf"> Click me!!</a>
 
